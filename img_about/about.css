@@ -32,7 +32,6 @@ h5{
     font-size: 20px;
 }
 main{
-    height: 725px;
     position: relative;
 }
 
@@ -319,7 +318,7 @@ color: #ffffff;
 
 
 
-@media only screen and (max-width: 1600px) {
+@media only screen and (max-width: 1618px) {
     
         
     .nav-btn-purple,.nav-btn-white{
@@ -508,8 +507,29 @@ color: #ffffff;
     .banner_left>p{
         font-size: 25px;
     }
+
+    .last_div{
+        margin: 40px 8.97510133% 10px 2%;
+    }
+    
+    .last_div > span{
+        font-size: 10px;
+    }
+    
+    
 }
 
+@media only screen and (max-width: 1014px) {
+    
+    .nav-right{
+        margin: 1.44759699% 0 1.44759699% 1%;
+    }
+    
+    .nav-btn-purple,.nav-btn-white{
+        font-size: 15px;
+    }
+
+}
 
 @media only screen and (max-width: 1001px) {
 
@@ -522,8 +542,11 @@ color: #ffffff;
     }
     .brands{
         display: block;
-        float: none;
+        float: right;
         margin-top: 3px;
+    }
+    .nav-btn-purple,.nav-btn-white{
+        font-size: inherit;
     }
 
 }

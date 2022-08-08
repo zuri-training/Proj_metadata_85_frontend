@@ -1,9 +1,24 @@
-Designed About page
+I4G008462KN4
 
-Designed Dashboard page
+Muhammed Lawal Bayero
 
-Designed Collectios page
 
-Designed
+Coded the About page
+
+Coded the Dashboard page
+
+Coded the Collections page
+
+Coded the FAQs page
+
+Coded the reset password page
+
+Coded verify email page
+
+Coded the DOCs page
+
+Connected the html pages as django templates
+
+Connected static files to pages
 
 

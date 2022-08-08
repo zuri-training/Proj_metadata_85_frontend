@@ -3,22 +3,22 @@ I4G008462KN4
 Muhammed Lawal Bayero
 
 
-Coded the About page
+Coded the About page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/About-us.html
 
-Coded the Dashboard page
+Coded the Dashboard page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/dashboard.html
 
-Coded the Collections page
+Extended dashboard into collections pages -https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/collections.html
 
-Coded the FAQs page
+Extended about into the FAQs page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/faqs.html
 
-Coded the reset password page
+Extended about page into the reset password page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/pwdreset.html
 
-Coded verify email page
+Extended Rest password into the verify email page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/verify.html
 
-Coded the DOCs page
+Extended dashboard into the DOCs page - https://github.com/zuri-training/Proj_metadata_85_backend/blob/main/src/pages/templates/xtracto/docs.html
 
-Connected the html pages as django templates
+Connected the html pages as django templates - https://github.com/zuri-training/Proj_metadata_85_backend/tree/main/src/pages/templates/xtracto
 
-Connected static files to pages
+Connected static files to pages - https://github.com/zuri-training/Proj_metadata_85_backend/tree/main/src/pages/static
 
 

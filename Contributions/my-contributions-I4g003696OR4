@@ -5,3 +5,14 @@ i was tasked to create the Contact page,login page,registration page and the res
 i was also tasked to create a the nav bar for al the pages and also create a toggle button using javascript for the mobile view of the navbar..
 
 #PAGE-LINKS
+Contact page [https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/pages/contact.html]
+
+login page [https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/pages/login.html]
+
+Registration page [https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/pages/register.html]
+
+Reset password page [https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/pages/reset-password.html]
+
+#CSS LINKS FOR THE PAGES
+[https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/src/css/style.css]
+[https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/src/css/footer.css]

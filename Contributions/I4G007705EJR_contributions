@@ -1,12 +1,15 @@
-ID: I4G007705EJR
+# Section 1
+Full Name: Furaha Saleh Benedict
+Track: Full-stack
+Student ID: I4G007705EJR
+Team: Team_85
 
-Name: Furaha Saleh Benedict
-Email: benefatia@gmail.com
-
+# Section 2
 I contributed to developing front-end pages with pure HTML and CSS
 The pages I contributed to are homepage, dashboard, collection, and features
 
-# Files contributed to on the frontend
+#Pages links
+
 homepage html: https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/assets/dashboard-homepage-collections-features%20pages/home.html
 homepage css: https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/assets/dashboard-homepage-collections-features%20pages/home.css
 dashboard html: https://github.com/zuri-training/Proj_metadata_85_frontend/blob/main/assets/dashboard-homepage-collections-features%20pages/dashboard.html

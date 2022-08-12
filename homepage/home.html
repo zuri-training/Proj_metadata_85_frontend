@@ -8,8 +8,10 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="home.css">
-    <script type="text/javascript" src="homepage.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../homepage/home.css">
+
     <title>Homepage Xtracto</title>
 </head>
 
@@ -22,14 +24,14 @@
             <nav>
                 <h1>XTRACTO</h1>
                 <ul class="ul-nav">
-                    <li><a href="#about" class="nav-link">Home</a></li>
-                    <li><a href="./img_about/About-us.html" class="nav-link">About Us</a></li>
-                    <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
-                    <li><a href="./contact.html" class="nav-link">FAQs</a></li>
+                    <li><a href="../homepage/home.html" class="nav-link">Home</a></li>
+                    <li><a href="../img_about/About-us.html" class="nav-link">About Us</a></li>
+                    <li><a href="../contact.html" class="nav-link">Contact Us</a></li>
+                    <li><a href="../contact.html" class="nav-link">FAQs</a></li>
                 </ul>
                 <div class="signup-link">
-                    <a href="./login.html" class="sign-in-btn nav-btn"> Sign in </a>
-                    <a href="./register.html" class="register-btn nav-btn">Get exclusive features</a>
+                    <a href="../login.html" class="sign-in-btn nav-btn"> Sign in </a>
+                    <a href="../register.html" class="register-btn nav-btn">Get exclusive features</a>
                 </div>
                 <button class="burger-menu" id="burger-menu">
                     <ion-icon class="bars" name="menu-outline"></ion-icon>
@@ -51,7 +53,7 @@
         <!-- Second section description on metadata extraction -->
         <div class="second-section">
             <div class="top-left">
-                <img src="/images-homepage/bricks.png" alt="bricks-game" style="width: 98%; height:98%; border-radius: 15px;">
+                <img src="../images-homepage/brick-game.jpeg" alt="bricks-game" style="width: 98%; height:98%; border-radius: 15px;">
             </div>
             <div class="top-right">
                 <h1>Data Extraction made easy</h1>
@@ -70,20 +72,20 @@
 
         <div class="files-icon">
             <div class="mid-one">
-                <img src="/images-homepage/image-file-icon.svg" alt="" style="width: 50px; height:50px">
+                <img src="../images-homepage/image-file-icon.svg" alt="" style="width: 50px; height:50px">
                 <p>IMAGES</p>
                 <p>(png, jpg, jpeg, svg, gif)</p>
             </div>
             <div class="mid-two">
-                <img src="/images-homepage/csv-file-icon.svg" alt="" style="width: 50px; height:50px">
+                <img src="../images-homepage/csv-file-icon.svg" alt="" style="width: 50px; height:50px">
                 <p>CSV</p>
             </div>
             <div class="mid-three">
-                <img src="/images-homepage/pdf-files-icon.svg" alt="" style="width: 50px; height:50px">
+                <img src="../images-homepage/pdf-files-icon.svg" alt="" style="width: 50px; height:50px">
                 <p>PDF</p>
             </div>
             <div class="mid-four">
-                <img src="/images-homepage/json-file-icon.svg" alt="" style="width: 50px; height:50px">
+                <img src="../images-homepage/json-file-icon.svg" alt="" style="width: 50px; height:50px">
                 <p>JSON</p>
             </div>
         </div>
@@ -95,25 +97,25 @@
                 <button>Get exclusive features</button>
             </div>
             <div class="side-right-one">
-                <img src="/images-homepage/file-data-exchange-icon.svg" alt="File" style="width: 50px; height:50px">
+                <img src="../images-homepage/file-data-exchange-icon.svg" alt="File" style="width: 50px; height:50px">
                 <h3>File Conversion</h3>
                 <p>The file converter will allow you to convert jpg to png, png to jpg or other file types. Upload your
                     file, change the file type from your browser, and download.</p>
             </div>
             <div class="side-right-two">
-                <img src="/images-homepage/paint-brush-drawing-icon.svg" alt="Color-brush" style="width: 50px; height:50px">
+                <img src="../images-homepage/paint-brush-drawing-icon.svg" alt="Color-brush" style="width: 50px; height:50px">
                 <h3>Generate Color Pallete</h3>
                 <p>This simple colour pallete generator extracts colours from any uploaded photo or file. Thrn copy the
                     HEX codes from the colour pallete app with a simple click!</p>
             </div>
             <div class="side-right-three">
-                <img src="/images-homepage/data-icon.svg" alt="database" style="width: 50px; height:50px">
+                <img src="../images-homepage/data-icon.svg" alt="database" style="width: 50px; height:50px">
                 <h3>Extra Metadata</h3>
                 <p>Extract the metadata recorded behind files you upload, ranging from file size and modification
                     history to the software tools used to create them.</p>
             </div>
             <div class="side-right-four">
-                <img src="/images-homepage/small-screen-arrow-icon.svg" alt="Resize" style="width: 50px; height:50px;">
+                <img src="../images-homepage/small-screen-arrow-icon.svg" alt="Resize" style="width: 50px; height:50px;">
                 <h3>Resize file</h3>
                 <p>This resize option allows you to reduce the size of a file that either exists on Xtracto or one you
                     uploaded. You can enlarge or minimize files.</p>
@@ -188,8 +190,13 @@
 
     </footer>
 
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Website scripts -->
+  <script src="../js/login.js"></script>
+
+    <!-- Ion icons scripts -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
 </body>
 
 </html>
